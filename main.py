@@ -9,6 +9,7 @@ Current functionality:
 5. Run sample trading actions
 6. Generate environment visualization
 """
+#traing for git 
 
 import sys
 from pathlib import Path

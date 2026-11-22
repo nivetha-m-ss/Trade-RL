@@ -10,6 +10,8 @@ Action:
     0.0 -> 100% Cash
     1.0 -> 100% Invested
 """
+# Updated for Git branching and pull request practice
+class TD3Agent:
 
 from pathlib import Path
 
